@@ -1,6 +1,6 @@
 ## Лабораторна робота №3
 - ст.гр. КІУКІ-19-9 Пилипенко О.Р.
-- Варіант 2
+- Варіант 1
 
 - Головна сторінка
 ![Image alt](https://github.com/OleksiiPylypenk0/3LB_Web_Pylypenko/blob/master/Screen1.png)
