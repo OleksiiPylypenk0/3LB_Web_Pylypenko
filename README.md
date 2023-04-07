@@ -8,7 +8,7 @@
 - Розклад для крупи "КІ-12-1"
 ![Image alt](https://github.com/OleksiiPylypenk0/3LB_Web_Pylypenko/blob/master/Screen2.png)
 
-- Розклад для викладача "Yankovskiy Y.A."
+- Розклад для викладача "Yankovskiy O.A."
 ![Image alt](https://github.com/OleksiiPylypenk0/3LB_Web_Pylypenko/blob/master/Screen3.png)
 
 - Розклад для аудиторії "229"
